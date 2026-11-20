@@ -1,0 +1,17 @@
+
+# Private credentials
+secrets.h
+secrets.local.h
+
+# Build files
+build/
+*.elf
+*.hex
+*.bin
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
